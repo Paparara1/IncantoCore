@@ -16,10 +16,11 @@ dist/
 .env.production
 .env.development
 
-# OS & Editor
+# OS & Editor & Temporary Archives
 .DS_Store
 *.pem
 *.log
+*.zip
 b_aRAXjgAwLFF.zip
 
 # v0 Sandbox internal
