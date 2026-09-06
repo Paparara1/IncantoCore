@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Next.js & Build Outputs
+.next/
+out/
+build/
+dist/
+
+# Vercel
+.vercel/
+
+# Environment variables
+.env
+.env*.local
+.env.production
+.env.development
+
+# OS & Editor & Temporary Archives
+.DS_Store
+*.pem
+*.log
+*.zip
+b_aRAXjgAwLFF.zip
+
+# v0 Sandbox internal
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+next.user-config.*
