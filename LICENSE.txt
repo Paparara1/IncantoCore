@@ -1,0 +1,43 @@
+INCANTO — 13 Offline AI / BCI / Biometric PWA Prototypes
+COMMERCIAL LICENSE AGREEMENT
+Copyright (c) 2026 Paulina Jakubowska
+All rights reserved.
+
+Contact: mepaulaj@gmail.com
+LinkedIn: https://www.linkedin.com/in/paulina-jakubowska-65712b163
+
+1. OVERVIEW
+This license governs the use of the INCANTO bundle consisting of
+13 independent software projects (the "Software"):
+
+1. ThinkLink BCI
+2. Perceptio
+3. NeuroMusic
+4. IrisVerify ID
+5. Quantum Vault / IrisVault
+6. Kobalt AI Builder
+7. Vibe Coder
+8. Kobalt Automation
+9. ASI Bridge
+10. CRM AI + Asystent Sprzedaży
+11. 45 Mini SaaS HTML
+12. ClusterLaunch
+13. INCANTO OS
+
+The Software is provided under three separate licensing options.
+
+2. LICENSING OPTIONS
+
+OPTION A — COMMERCIAL LICENSE (SINGLE PROJECT)
+Price: €5,000
+
+OPTION B — BUNDLE LICENSE (3–4 PROJECTS)
+Price: €18,000
+
+OPTION C — FULL IP BUYOUT (ALL 13 PROJECTS)
+Price: €75,000 + 10% royalties
+
+3. GRANT OF LICENSE & FULL IP TRANSFER
+Upon full payment under Option C, 100% full copyright ownership, trademark rights, domain names, and administrative transfer of all primary repositories are assigned exclusively to the Buyer.
+
+© 2026 Paulina Jakubowska
