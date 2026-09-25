@@ -108,3 +108,18 @@ npm install
 # Start the local development server
 # npm run dev
 ```
+
+## 💼 Acquisition Terms and Contact
+
+This bundle is the ideal solution for:
+
+- **Startup founders (SaaS / Web3 / AI):** You receive complete, visually polished applications with unique market features, ready to be connected to your own domain.
+- **Software agencies and developers:** Ready-made templates, AWS infrastructure, and projects you can resell to your clients or deploy as your own commercial services.
+- **Investors:** A fast start with products in the artificial intelligence and blockchain technology categories without waiting for months-long development processes.
+
+**Contact for Purchase (IP Buyout / Commercial License):** Those interested in acquiring full copyright and code are asked to contact via:
+- LinkedIn message
+- Opening a dedicated Issue or Pull Request in this GitHub repository
+- Direct email contact associated with the GitHub organization profile
+
+**Intellectual Property Notice:** All rights, assets, visual layouts, and source codes within this repository are owned completely and are cleared for complete commercial buyout and transfer of intellectual property.
